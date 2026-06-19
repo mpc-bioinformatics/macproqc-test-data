@@ -1,0 +1,3 @@
+sample,spectrum_file
+sample_one_raw,https://github.com/nf-core/test-datasets/raw/refs/heads/modules/data/proteomics/msspectra/OVEMB150205_12.raw
+sample_two_d,https://github.com/mpc-bioinformatics/macproqc-test-data/raw/refs/heads/main/testdata/msspectra/50fmol_BSA_S1-A2_1_32.d.tar.bz2
